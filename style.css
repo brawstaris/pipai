@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+  font-family: "Arimo", sans-serif;
+}
+
+button {
+  background-color: 	#DC143C;
+}
+
+img {
+  box-sizing: border-box;
+ height: 100px; 
+}
